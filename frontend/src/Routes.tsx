@@ -1,4 +1,4 @@
-import Home from "pages";
+import Home from "pages/Home";
 import Dashboard from "pages/Dashboard";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 
